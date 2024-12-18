@@ -50,6 +50,9 @@ Several machine learning models were trained and evaluated. Below are the result
 
 **Selected Model**: XGBoost provided the best overall performance and was selected for deployment.  
 
+![image_2024-12-18_210826740](https://github.com/user-attachments/assets/4adda434-5732-4847-9d38-4dd6bffe804c)
+
+
 ## 🚀 Deployment  
 The model was deployed using **Streamlit** to provide an interactive interface for predicting customer churn.  
 
