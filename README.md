@@ -38,7 +38,7 @@ The datasets (`churn-bigml-20.csv` and `churn-bigml-80.csv`) consist of customer
 ## 🛠️ Machine Learning Models  
 Several machine learning models were trained and evaluated.
 
-| Model               |
+| Models               |
 |---------------------|
 | Logistic Regression | 
 | Gradient Boosting   | 
